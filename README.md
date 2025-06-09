@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, welcome to my git.
 
 <!--
 **iris112-sung/iris112-sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
