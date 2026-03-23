@@ -1,6 +1,6 @@
 ## Hi.
 
-### I'm student of GBSW. My name is Yunseong.
-### I interested in learning LLM.
-### And I want to develop economic service with LLM.
+### I'm Yunseong Bea. I'm high school student.
+### I interested in Modeling of LLM and Optimization.
+
  
