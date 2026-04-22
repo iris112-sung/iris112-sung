@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunseong Bae</h1>
-<h3 align="center">Prospective Founder of A+end | Selected for the 2026 Gyeongbuk Software Growth Company Support Program</h3>
+<h3 align="center">Prospective Founder of A+end 
+  | Selected for the 2026 Gyeongbuk Software Growth Company Support Program</h3>
 
 - 🌱 I’m currently learning **LLM Modeling and Optimization**
 
